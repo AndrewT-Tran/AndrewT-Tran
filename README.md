@@ -1,5 +1,3 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrew!
-
 ## About Me
 
 My journey in tech began uniquely in the world of pre-dental studies, sparking my interest in how technology enhances our daily lives. With a Psychology degree from UC Davis, I made the exciting switch to technology, sharpening my skills at Coding Dojo. There, I delved into various programming languages and frameworks like MERN, Java, and Python. My approach to development blends the detailed focus I developed in dental studies with a strong commitment to creating user-friendly and intuitive tech solutions. This unique mix, coupled with my psychology insights, helps me craft digital experiences that really resonate with people.
