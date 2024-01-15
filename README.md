@@ -9,13 +9,6 @@ My journey in tech began uniquely in the world of pre-dental studies, sparking m
 - People-Centric: Leveraging my Psychology background, I excel in creating digital solutions that are both intuitive and user-friendly.
 - Adaptable and Quick Learner: Demonstrated the ability to swiftly transition between careers and acquire new skills, adapting to various programming languages and technologies efficiently.
 
-##
-
-- 🌍 Currently, I'm based in San Francisco
-- 🖥️ Check out my portfolio [AndrewTran-Shi.dev](http://Andrewtran-shi.dev)
-- ✉️ You can contact me at [me@AndrewTran-Shi.dev](mailto:me@AndrewTran-Shi.dev)
-- 🚀 I'm currently working on [CanIEatThis?](http://canieatthis.deno.dev/)
-
 ## Technical Skills
 
 ### Langauges
@@ -28,6 +21,13 @@ My journey in tech began uniquely in the world of pre-dental studies, sparking m
 ### Tech Stack
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=flask,django,react,bootstrap,mongodb,next,vite,spring,supabase,mysql,postgres,tailwind,aws,postman,git,docker&theme=dark&perline=8"/>
+ <img src="https://skillicons.dev/icons?i=flask,django,react,bootstrap,mongodb,next,vite,spring,express,nginx,supabase,mysql,postgres,tailwind,aws,postman,git,docker&theme=dark&perline=6"/>
 
 </p>
+
+##
+
+- 🌍 Currently, I'm based in San Francisco
+- 🖥️ Check out my portfolio [AndrewTran-Shi.dev](http://Andrewtran-shi.dev)
+- ✉️ You can contact me at [me@AndrewTran-Shi.dev](mailto:me@AndrewTran-Shi.dev)
+- 🚀 I'm currently working on [CanIEatThis?](http://canieatthis.deno.dev/)
