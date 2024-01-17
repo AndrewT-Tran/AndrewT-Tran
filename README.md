@@ -1,17 +1,17 @@
 ## About Me
 
-My journey in tech began uniquely in the world of pre-dental studies, sparking my interest in how technology enhances our daily lives. With a Psychology degree from UC Davis, I made the exciting switch to technology, sharpening my skills at Coding Dojo. There, I delved into various programming languages and frameworks like MERN, Java, and Python. My approach to development blends the detailed focus I developed in dental studies with a strong commitment to creating user-friendly and intuitive tech solutions. This unique mix, coupled with my psychology insights, helps me craft digital experiences that really resonate with people.
+My journey in tech began uniquely in the world of pre-dental studies, sparking my interest in how technology enhances our daily lives. With a Psychology degree from UC Davis, I switched to technology, sharpening my skills at Coding Dojo. I delved into various programming languages and frameworks like MERN, Java, and Python. My approach to development blends the detailed focus I developed in dental studies with a strong commitment to creating user-friendly and intuitive tech solutions. This unique mix, coupled with my psychology insights, helps me craft digital experiences that resonate with people.
 
 ### Key Strengths:
 
 - Tech-Savvy Problem Solver: Skilled in leading projects to enhance user accessibility and interface, using my coding expertise to create impactful solutions.
-- Detail-Oriented: My meticulous nature, developed in dental studies, ensures superior quality and precision in coding and development projects.
+- Detail-oriented: My meticulous nature, developed in dental studies, ensures superior quality and precision in coding and development projects.
 - People-Centric: Leveraging my Psychology background, I excel in creating digital solutions that are both intuitive and user-friendly.
-- Adaptable and Quick Learner: Demonstrated the ability to swiftly transition between careers and acquire new skills, adapting to various programming languages and technologies efficiently.
+- Adaptable and Quick Learner: Demonstrated the ability to swiftly transition between careers and acquire new skills, efficiently adapting to various programming languages and technologies.
 
 ## Technical Skills
 
-### Langauges
+### Languages
 
 <p align="center">
  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,ts,java,py&theme=dark"/>
