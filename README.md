@@ -1,13 +1,13 @@
 ## About Me
 
-My journey in tech began uniquely in the world of pre-dental studies, sparking my interest in how technology enhances our daily lives. With a Psychology degree from UC Davis, I switched to technology, sharpening my skills at Coding Dojo. I delved into various programming languages and frameworks like MERN, Java, and Python. My approach to development blends the detailed focus I developed in dental studies with a strong commitment to creating user-friendly and intuitive tech solutions. This unique mix, coupled with my psychology insights, helps me craft digital experiences that resonate with people.
+My journey in technology began uniquely with pre-dental studies, but it sparked my interest in how technology can enhance our daily lives. After earning my Psychology degree from UC Davis, I switched to technology and sharpened my skills at Coding Dojo. I explored various programming languages and frameworks such as MERN, Java, and Python. My approach to development combines my meticulous focus from dental studies with my strong commitment to creating user-friendly and intuitive tech solutions. This unique blend, along with my psychology insights, helps me create digital experiences that resonate with people.
 
 ### Key Strengths:
 
-- Tech-Savvy Problem Solver: Skilled in leading projects to enhance user accessibility and interface, using my coding expertise to create impactful solutions.
-- Detail-oriented: My meticulous nature, developed in dental studies, ensures superior quality and precision in coding and development projects.
-- People-Centric: Leveraging my Psychology background, I excel in creating digital solutions that are both intuitive and user-friendly.
-- Adaptable and Quick Learner: Demonstrated the ability to swiftly transition between careers and acquire new skills, efficiently adapting to various programming languages and technologies.
+- Tech-Savvy Problem Solver: I am skilled in leading projects to improve user accessibility and interface, using my coding expertise to create impactful solutions.
+- Detail-oriented: My meticulous nature, developed during dental studies, ensures superior quality and precision in coding and development projects.
+- People-Centric: Leveraging my psychology background, I excel in creating digital solutions that are both intuitive and user-friendly.
+- Adaptable and Quick Learner: I have demonstrated the ability to swiftly transition between careers and acquire new skills, efficiently adapting to various programming languages and technologies.
 
 ## Technical Skills
 
@@ -27,7 +27,6 @@ My journey in tech began uniquely in the world of pre-dental studies, sparking m
 
 ##
 
-- 🌍 Currently, I'm based in San Francisco
-- 🖥️ Check out my portfolio [AndrewTran-Shi.dev](http://Andrewtran-shi.dev)
+- 🌍 I am currently based in San Francisco
+- 🖥️ Check out my portfolio: [AndrewTran-Shi.dev](http://Andrewtran-shi.dev)
 - ✉️ You can contact me at [me@AndrewTran-Shi.dev](mailto:me@AndrewTran-Shi.dev)
-- 🚀 I'm currently working on [CanIEatThis?](http://canieatthis.deno.dev/)
