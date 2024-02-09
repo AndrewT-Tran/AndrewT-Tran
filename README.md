@@ -4,10 +4,14 @@ My journey in technology began uniquely with pre-dental studies, but it sparked 
 
 ### Key Strengths:
 
-- Tech-Savvy Problem Solver: I am skilled in leading projects to improve user accessibility and interface, using my coding expertise to create impactful solutions.
-- Detail-oriented: My meticulous nature, developed during dental studies, ensures superior quality and precision in coding and development projects.
-- People-Centric: Leveraging my psychology background, I excel in creating digital solutions that are both intuitive and user-friendly.
-- Adaptable and Quick Learner: I have demonstrated the ability to swiftly transition between careers and acquire new skills, efficiently adapting to various programming languages and technologies.
+
+- Technology-Driven Innovator: Proficient in orchestrating projects that enhance user accessibility and interfaces, employing my coding prowess to forge meaningful solutions.
+
+- Precision-Focused: Cultivated from my experience in dental studies, my attention to detail guarantees excellence and accuracy in all coding and development endeavors.
+
+- User-Focused Developer: Utilizing my background in psychology, I specialize in devising digital solutions that are instinctive and cater to user needs.
+
+- Versatile and Rapid Learner: Exhibited capability to smoothly navigate career changes and assimilate new competencies, adeptly adjusting to diverse programming languages and technological environments.
 
 ## Technical Skills
 
